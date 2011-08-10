@@ -29,25 +29,7 @@
   <artifactId>cities-fact-model</artifactId>
   <version>0.0.16-SNAPSHOT</version>
 
-  <name>Maven Drools Plugin :: Fact Model (Cities)</name>
-  <description>A Java fact model containing location/cities-related information, used for integration testing</description>
-
-  <dependencies>
-    <dependency>
-      <groupId>de.lightful.maven.drools</groupId>
-      <artifactId>integration-repository</artifactId>
-      <type>pom</type>
-    </dependency>
-  </dependencies>
-
-  <build>
-    <plugins>
-      <plugin>
-        <groupId>org.apache.maven.plugins</groupId>
-        <artifactId>maven-invoker-plugin</artifactId>
-      </plugin>
-    </plugins>
-  </build>
-
+  <name>Maven Drools Support :: Plugin :: IT Artifacts :: Cities Fact Model</name>
+  <description>A Java fact model representing location/cities-related information, used for integration testing</description>
 
 </project>
