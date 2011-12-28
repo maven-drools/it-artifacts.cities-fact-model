@@ -24,10 +24,10 @@
   <parent>
     <groupId>de.lightful.poms</groupId>
     <artifactId>java-library</artifactId>
-    <version>3</version>
+    <version>7</version>
   </parent>
 
-  <groupId>de.lightful.maven.drools.plugin.itartifacts</groupId>
+  <groupId>de.lightful.maven.drools.plugin.its.test-artifacts</groupId>
   <artifactId>cities-fact-model</artifactId>
   <version>0.0.19-SNAPSHOT</version>
 
