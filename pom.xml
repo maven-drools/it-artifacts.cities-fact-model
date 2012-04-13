@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
-  ~ Copyright (c) 2009-2011 Ansgar Konermann
+  ~ Copyright (c) 2009-2012 Ansgar Konermann
   ~
   ~ This file is part of the "Maven 3 Drools Support" Package.
   ~
@@ -22,7 +22,7 @@
   <parent>
     <groupId>de.lightful.poms</groupId>
     <artifactId>java-library</artifactId>
-    <version>8</version>
+    <version>11</version>
   </parent>
 
   <groupId>de.lightful.maven.drools.plugin.its.test-artifacts</groupId>
