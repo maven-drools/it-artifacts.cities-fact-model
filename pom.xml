@@ -27,7 +27,7 @@
 
   <groupId>de.lightful.maven.drools.plugin.its.test-artifacts</groupId>
   <artifactId>cities-fact-model</artifactId>
-  <version>0.0.21-SNAPSHOT</version>
+  <version>0.0.21</version>
 
   <name>Maven Drools Support :: Plugin :: IT Artifacts :: Cities Fact Model</name>
   <description>A Java fact model representing location/cities-related information, used for integration testing</description>
